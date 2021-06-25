@@ -1,7 +1,11 @@
-#include <stido.h>
-
-int main()
-{
+	printf("hello,world\n");
+	printf("hello,world\n");
+	printf("hello,world\n");
+	printf("hello,world\n");
+	printf("hello,world\n");
+	printf("hello,world\n");
+	printf("hello,world\n");
+	printf("hello,world\n");
 	printf("hello,world\n");
 <<<<<<< HEAD
 	printf("hello,worldw\n");
